@@ -2,20 +2,20 @@
   "tasks": [
     {
       "id": 1,
-      "title": "Comprar mantimentos",
-      "description": "Comprar itens para o jantar",
+      "title": "Comprar comida",
+      "description": "Comprar os itens para fazer o almoço",
       "completed": false
     },
     {
       "id": 2,
-      "title": "Fazer exercícios",
-      "description": "Fazer 30 minutos de exercícios aeróbicos",
+      "title": "Estudar para a prova",
+      "description": "Reservar 30min do dia para estudar",
       "completed": false
     },
     {
       "id": 3,
-      "title": "Ler livro",
-      "description": "Ler capítulo 3 do livro 'Aprendendo JavaScript'",
+      "title": "Jogar com os amigos",
+      "description": "Entrar no discord para jogar com a galera
       "completed": true
     }
   ]
