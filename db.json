@@ -1,4 +1,22 @@
 {
-    "listTask": []
-  }
-  
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Comprar mantimentos",
+      "description": "Comprar itens para o jantar",
+      "completed": false
+    },
+    {
+      "id": 2,
+      "title": "Fazer exercícios",
+      "description": "Fazer 30 minutos de exercícios aeróbicos",
+      "completed": false
+    },
+    {
+      "id": 3,
+      "title": "Ler livro",
+      "description": "Ler capítulo 3 do livro 'Aprendendo JavaScript'",
+      "completed": true
+    }
+  ]
+}
